@@ -1,7 +1,7 @@
 <?php
 
 // Language definitions used in payment.php, newpayment.php, payment_query.php and motify_payments.php
-// credits: please (haha motify easy)
+
 $lang_payment = array(
     'PayPal 1'			    =>	'Melden Sie sich mit Ihrem Webbrowser bei Ihrem PayPal-Konto an. Klicken Sie auf %sSenden &amp; Empfangen%s oben auf der Seite an. Geben Sie die E-Mail-Adresse wie unten angegeben an die Empfängeradresse ein.',
     'PayPal 2'              =>  'Schreibe %s als Betrag, EUR als Währung, und den Satz unten als notiz und klicke auf Weiter',
